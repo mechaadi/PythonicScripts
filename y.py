@@ -150,7 +150,7 @@ for x in videoList:
 	
 	print("newTitle is ", newTitle)
 
-	uri = 'https://fir-2-83e2c.firebaseio.com/Courses/Data Structures/Playlist/'+str(counting)+'.json?auth=1HF1LzVu5zOeN46d77Ycm3NSjlm3fRCdMHjnL0It'
+	uri = 'https://path/'+str(counting)+'.json?auth=youtAuthKey'
 
 	postmark_url = uri
 
